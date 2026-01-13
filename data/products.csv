@@ -1,0 +1,501 @@
+product_id,product_name
+1,Apple iPhone 14
+2,Apple iPhone 14 Pro
+3,Apple iPhone 13
+4,Samsung Galaxy S21
+5,Samsung Galaxy S22
+6,OnePlus 11
+7,OnePlus Nord
+8,Sony WH-1000XM5 Headphones
+9,Dell XPS 13 Laptop
+10,HP Pavilion Laptop
+11,Nike Running Shoes
+12,Adidas Sports Shoes
+13,Puma Sneakers
+14,Levis Blue Jeans
+15,U.S. Polo T-Shirt
+16,Ray-Ban Sunglasses
+17,Aashirvaad Atta 5kg
+18,Tata Salt 1kg
+19,Fortune Sunflower Oil 1L
+20,Maggi Noodles Pack
+21,Amul Butter 500g
+22,Samzung Galaxy S21
+23,Appl iPhone 14
+24,Nik Running Shoes
+25,Adiddas Sports Shoes
+26,Tatta Salt 1kg
+27,Ray-Ban Sunglasses 2024 Model
+28,Apple iPhone 14 Pro New Edition
+29,Dell XPS 13 Laptop New Edition
+30,U.S. Polo T-Shirt Mini
+31,Samsung Galaxy S21 Plus
+32,Apple iPhone 14 2024 Model
+33,HP Pavilion Laptop 2024 Model
+34,Puma Sneakers 2024 Model
+35,Levis Blue Jeans Plus
+36,Aashirvaad Atta 5kg 2024 Model
+37,Apple iPhone 13 Plus
+38,Puma Sneakers Pro
+39,OnePlus 11 Pro
+40,Maggi Noodles Pack Mini
+41,Maggi Noodles Pack Plus
+42,Puma Sneakers New Edition
+43,HP Pavilion Laptop Mini
+44,Tata Salt 1kg Plus
+45,Aashirvaad Atta 5kg 2024 Model
+46,Nike Running Shoes Plus
+47,Fortune Sunflower Oil 1L 2024 Model
+48,U.S. Polo T-Shirt Plus
+49,U.S. Polo T-Shirt 2024 Model
+50,Fortune Sunflower Oil 1L Plus
+51,Samsung Galaxy S22 Plus
+52,Samsung Galaxy S22 Plus
+53,Ray-Ban Sunglasses 2024 Model
+54,OnePlus 11 Pro
+55,Sony WH-1000XM5 Headphones Plus
+56,Puma Sneakers Plus
+57,Apple iPhone 14 2024 Model
+58,Ray-Ban Sunglasses Plus
+59,Amul Butter 500g Pro
+60,Apple iPhone 13 Pro
+61,Apple iPhone 14 New Edition
+62,Samsung Galaxy S22 Plus
+63,Maggi Noodles Pack Plus
+64,Aashirvaad Atta 5kg 2024 Model
+65,Nike Running Shoes Mini
+66,HP Pavilion Laptop Pro
+67,U.S. Polo T-Shirt Pro
+68,OnePlus Nord New Edition
+69,U.S. Polo T-Shirt Mini
+70,Sony WH-1000XM5 Headphones Plus
+71,Apple iPhone 14 Pro 2024 Model
+72,OnePlus Nord New Edition
+73,Amul Butter 500g Mini
+74,Nike Running Shoes New Edition
+75,Adidas Sports Shoes 2024 Model
+76,Apple iPhone 13 Plus
+77,Maggi Noodles Pack Mini
+78,U.S. Polo T-Shirt New Edition
+79,Adidas Sports Shoes Pro
+80,Aashirvaad Atta 5kg Plus
+81,Ray-Ban Sunglasses Mini
+82,Apple iPhone 13 Pro
+83,Puma Sneakers 2024 Model
+84,Sony WH-1000XM5 Headphones New Edition
+85,OnePlus Nord New Edition
+86,Amul Butter 500g Pro
+87,Adidas Sports Shoes 2024 Model
+88,Apple iPhone 13 Mini
+89,U.S. Polo T-Shirt Pro
+90,Nike Running Shoes New Edition
+91,Aashirvaad Atta 5kg New Edition
+92,HP Pavilion Laptop 2024 Model
+93,Aashirvaad Atta 5kg Pro
+94,Maggi Noodles Pack New Edition
+95,Nike Running Shoes 2024 Model
+96,Adidas Sports Shoes Pro
+97,Apple iPhone 14 Mini
+98,HP Pavilion Laptop Plus
+99,Apple iPhone 14 Pro Pro
+100,HP Pavilion Laptop New Edition
+101,U.S. Polo T-Shirt Plus
+102,Apple iPhone 14 Plus
+103,Aashirvaad Atta 5kg 2024 Model
+104,Sony WH-1000XM5 Headphones 2024 Model
+105,Adidas Sports Shoes Mini
+106,Apple iPhone 14 Pro
+107,HP Pavilion Laptop Mini
+108,Samsung Galaxy S22 Mini
+109,Puma Sneakers Pro
+110,Puma Sneakers Pro
+111,Samsung Galaxy S22 2024 Model
+112,Sony WH-1000XM5 Headphones Pro
+113,Sony WH-1000XM5 Headphones Plus
+114,Aashirvaad Atta 5kg Mini
+115,Apple iPhone 13 New Edition
+116,Adidas Sports Shoes Mini
+117,Apple iPhone 14 Pro Mini
+118,U.S. Polo T-Shirt Plus
+119,Samsung Galaxy S21 Pro
+120,Samsung Galaxy S21 2024 Model
+121,HP Pavilion Laptop Mini
+122,Ray-Ban Sunglasses New Edition
+123,Apple iPhone 14 Mini
+124,Sony WH-1000XM5 Headphones Plus
+125,OnePlus 11 Mini
+126,Nike Running Shoes Plus
+127,Ray-Ban Sunglasses 2024 Model
+128,Puma Sneakers Pro
+129,Samsung Galaxy S22 Mini
+130,Samsung Galaxy S22 Mini
+131,Fortune Sunflower Oil 1L Plus
+132,Puma Sneakers Plus
+133,Aashirvaad Atta 5kg Mini
+134,Adidas Sports Shoes Mini
+135,Sony WH-1000XM5 Headphones Plus
+136,Apple iPhone 14 Pro New Edition
+137,Nike Running Shoes New Edition
+138,U.S. Polo T-Shirt Pro
+139,Ray-Ban Sunglasses Pro
+140,Samsung Galaxy S21 New Edition
+141,Fortune Sunflower Oil 1L New Edition
+142,Dell XPS 13 Laptop 2024 Model
+143,Amul Butter 500g New Edition
+144,Samsung Galaxy S21 Plus
+145,Nike Running Shoes Mini
+146,Sony WH-1000XM5 Headphones Pro
+147,Maggi Noodles Pack 2024 Model
+148,Samsung Galaxy S22 Pro
+149,Nike Running Shoes Pro
+150,Ray-Ban Sunglasses Mini
+151,Amul Butter 500g Pro
+152,Dell XPS 13 Laptop Mini
+153,Tata Salt 1kg Pro
+154,Samsung Galaxy S21 2024 Model
+155,Maggi Noodles Pack 2024 Model
+156,OnePlus Nord Plus
+157,OnePlus Nord 2024 Model
+158,OnePlus Nord Mini
+159,Levis Blue Jeans Pro
+160,Samsung Galaxy S21 2024 Model
+161,Apple iPhone 14 New Edition
+162,Dell XPS 13 Laptop Mini
+163,OnePlus 11 Plus
+164,OnePlus 11 Plus
+165,Apple iPhone 14 Pro New Edition
+166,Samsung Galaxy S22 Mini
+167,HP Pavilion Laptop New Edition
+168,Amul Butter 500g Pro
+169,Nike Running Shoes New Edition
+170,Dell XPS 13 Laptop Pro
+171,Nike Running Shoes 2024 Model
+172,Aashirvaad Atta 5kg New Edition
+173,Ray-Ban Sunglasses Pro
+174,Samsung Galaxy S21 Plus
+175,Apple iPhone 14 Pro
+176,Fortune Sunflower Oil 1L Mini
+177,OnePlus Nord New Edition
+178,Apple iPhone 13 Pro
+179,Puma Sneakers 2024 Model
+180,Dell XPS 13 Laptop Mini
+181,Samsung Galaxy S21 2024 Model
+182,Sony WH-1000XM5 Headphones New Edition
+183,Tata Salt 1kg Mini
+184,Apple iPhone 13 Plus
+185,Puma Sneakers New Edition
+186,Fortune Sunflower Oil 1L Pro
+187,Dell XPS 13 Laptop Mini
+188,Sony WH-1000XM5 Headphones New Edition
+189,Fortune Sunflower Oil 1L 2024 Model
+190,Apple iPhone 14 Plus
+191,OnePlus 11 Plus
+192,Puma Sneakers New Edition
+193,U.S. Polo T-Shirt Plus
+194,Samsung Galaxy S21 Pro
+195,OnePlus Nord Plus
+196,Amul Butter 500g Plus
+197,OnePlus Nord New Edition
+198,Samsung Galaxy S21 Mini
+199,Nike Running Shoes 2024 Model
+200,Apple iPhone 14 Pro
+201,Adidas Sports Shoes Mini
+202,Puma Sneakers 2024 Model
+203,HP Pavilion Laptop New Edition
+204,Aashirvaad Atta 5kg New Edition
+205,Apple iPhone 13 New Edition
+206,Nike Running Shoes 2024 Model
+207,Amul Butter 500g Plus
+208,Nike Running Shoes New Edition
+209,Apple iPhone 14 Pro Plus
+210,Apple iPhone 14 Pro 2024 Model
+211,U.S. Polo T-Shirt New Edition
+212,Apple iPhone 14 Pro Mini
+213,Maggi Noodles Pack Mini
+214,Adidas Sports Shoes Pro
+215,U.S. Polo T-Shirt 2024 Model
+216,Nike Running Shoes Mini
+217,Dell XPS 13 Laptop Pro
+218,Fortune Sunflower Oil 1L Mini
+219,Ray-Ban Sunglasses Pro
+220,U.S. Polo T-Shirt Plus
+221,Samsung Galaxy S21 Mini
+222,Sony WH-1000XM5 Headphones 2024 Model
+223,Aashirvaad Atta 5kg 2024 Model
+224,Tata Salt 1kg Plus
+225,Samsung Galaxy S21 New Edition
+226,Sony WH-1000XM5 Headphones New Edition
+227,Sony WH-1000XM5 Headphones Plus
+228,Nike Running Shoes 2024 Model
+229,Maggi Noodles Pack Pro
+230,Amul Butter 500g New Edition
+231,Levis Blue Jeans Plus
+232,U.S. Polo T-Shirt Pro
+233,OnePlus 11 Plus
+234,Samsung Galaxy S22 Mini
+235,Levis Blue Jeans New Edition
+236,Tata Salt 1kg New Edition
+237,Samsung Galaxy S21 2024 Model
+238,Puma Sneakers Plus
+239,Tata Salt 1kg New Edition
+240,Puma Sneakers Mini
+241,Levis Blue Jeans Plus
+242,Ray-Ban Sunglasses Plus
+243,Dell XPS 13 Laptop Pro
+244,Samsung Galaxy S21 Mini
+245,Levis Blue Jeans 2024 Model
+246,Sony WH-1000XM5 Headphones Plus
+247,Sony WH-1000XM5 Headphones Pro
+248,Amul Butter 500g 2024 Model
+249,Apple iPhone 14 Pro New Edition
+250,U.S. Polo T-Shirt 2024 Model
+251,Apple iPhone 13 Plus
+252,Dell XPS 13 Laptop New Edition
+253,Samsung Galaxy S22 2024 Model
+254,Apple iPhone 14 Pro
+255,HP Pavilion Laptop Plus
+256,Apple iPhone 13 Mini
+257,Fortune Sunflower Oil 1L Pro
+258,Samsung Galaxy S21 Mini
+259,Adidas Sports Shoes Plus
+260,U.S. Polo T-Shirt New Edition
+261,Adidas Sports Shoes Pro
+262,Nike Running Shoes Plus
+263,Amul Butter 500g Mini
+264,OnePlus Nord New Edition
+265,Aashirvaad Atta 5kg Mini
+266,Maggi Noodles Pack Mini
+267,Apple iPhone 14 Pro 2024 Model
+268,Sony WH-1000XM5 Headphones Pro
+269,Samsung Galaxy S21 Pro
+270,Nike Running Shoes 2024 Model
+271,HP Pavilion Laptop Mini
+272,HP Pavilion Laptop 2024 Model
+273,Puma Sneakers New Edition
+274,OnePlus 11 New Edition
+275,Dell XPS 13 Laptop 2024 Model
+276,Maggi Noodles Pack Pro
+277,Dell XPS 13 Laptop 2024 Model
+278,HP Pavilion Laptop Plus
+279,Sony WH-1000XM5 Headphones Mini
+280,OnePlus Nord Plus
+281,Apple iPhone 14 2024 Model
+282,Dell XPS 13 Laptop New Edition
+283,Ray-Ban Sunglasses Mini
+284,Nike Running Shoes Mini
+285,Tata Salt 1kg New Edition
+286,Samsung Galaxy S22 2024 Model
+287,Fortune Sunflower Oil 1L Mini
+288,Maggi Noodles Pack New Edition
+289,Fortune Sunflower Oil 1L 2024 Model
+290,OnePlus Nord 2024 Model
+291,Maggi Noodles Pack Mini
+292,Apple iPhone 14 Pro Pro
+293,OnePlus 11 2024 Model
+294,HP Pavilion Laptop New Edition
+295,Samsung Galaxy S22 Mini
+296,Nike Running Shoes Pro
+297,Sony WH-1000XM5 Headphones 2024 Model
+298,Dell XPS 13 Laptop Pro
+299,Aashirvaad Atta 5kg Mini
+300,Fortune Sunflower Oil 1L Plus
+301,Tata Salt 1kg New Edition
+302,Sony WH-1000XM5 Headphones Mini
+303,Levis Blue Jeans New Edition
+304,U.S. Polo T-Shirt Mini
+305,Nike Running Shoes 2024 Model
+306,Adidas Sports Shoes Mini
+307,Adidas Sports Shoes Mini
+308,Apple iPhone 14 Plus
+309,Levis Blue Jeans Pro
+310,Levis Blue Jeans Pro
+311,Levis Blue Jeans 2024 Model
+312,Apple iPhone 14 Mini
+313,Amul Butter 500g New Edition
+314,Ray-Ban Sunglasses Plus
+315,Samsung Galaxy S21 Plus
+316,Apple iPhone 14 2024 Model
+317,Apple iPhone 14 Pro Mini
+318,Adidas Sports Shoes Pro
+319,OnePlus Nord Plus
+320,Puma Sneakers 2024 Model
+321,Samsung Galaxy S22 2024 Model
+322,Aashirvaad Atta 5kg Pro
+323,Ray-Ban Sunglasses 2024 Model
+324,Ray-Ban Sunglasses 2024 Model
+325,Sony WH-1000XM5 Headphones Mini
+326,Apple iPhone 14 2024 Model
+327,HP Pavilion Laptop New Edition
+328,HP Pavilion Laptop 2024 Model
+329,Sony WH-1000XM5 Headphones Pro
+330,Ray-Ban Sunglasses 2024 Model
+331,Puma Sneakers Pro
+332,Ray-Ban Sunglasses Mini
+333,Apple iPhone 14 Pro 2024 Model
+334,U.S. Polo T-Shirt 2024 Model
+335,Apple iPhone 14 Mini
+336,Tata Salt 1kg New Edition
+337,Maggi Noodles Pack New Edition
+338,Tata Salt 1kg Pro
+339,Apple iPhone 13 Mini
+340,Nike Running Shoes 2024 Model
+341,Amul Butter 500g Pro
+342,Fortune Sunflower Oil 1L 2024 Model
+343,HP Pavilion Laptop New Edition
+344,Puma Sneakers Mini
+345,Puma Sneakers Plus
+346,OnePlus Nord 2024 Model
+347,Samsung Galaxy S22 Pro
+348,Nike Running Shoes Pro
+349,Aashirvaad Atta 5kg Pro
+350,Tata Salt 1kg Plus
+351,Fortune Sunflower Oil 1L New Edition
+352,OnePlus Nord 2024 Model
+353,Samsung Galaxy S22 2024 Model
+354,Apple iPhone 13 New Edition
+355,Maggi Noodles Pack 2024 Model
+356,Amul Butter 500g New Edition
+357,Samsung Galaxy S22 Mini
+358,OnePlus Nord New Edition
+359,U.S. Polo T-Shirt 2024 Model
+360,Apple iPhone 13 Mini
+361,OnePlus Nord New Edition
+362,Maggi Noodles Pack Pro
+363,Apple iPhone 13 New Edition
+364,Ray-Ban Sunglasses Mini
+365,Apple iPhone 14 Pro Plus
+366,Samsung Galaxy S21 2024 Model
+367,Levis Blue Jeans Plus
+368,Sony WH-1000XM5 Headphones Pro
+369,Tata Salt 1kg New Edition
+370,HP Pavilion Laptop Pro
+371,Nike Running Shoes New Edition
+372,Adidas Sports Shoes Mini
+373,Nike Running Shoes 2024 Model
+374,Samsung Galaxy S21 Plus
+375,Tata Salt 1kg 2024 Model
+376,Ray-Ban Sunglasses Plus
+377,Dell XPS 13 Laptop Pro
+378,Ray-Ban Sunglasses Mini
+379,Apple iPhone 14 Pro Pro
+380,Tata Salt 1kg Plus
+381,Adidas Sports Shoes 2024 Model
+382,Adidas Sports Shoes New Edition
+383,Dell XPS 13 Laptop Mini
+384,Ray-Ban Sunglasses Pro
+385,U.S. Polo T-Shirt Plus
+386,Levis Blue Jeans New Edition
+387,Apple iPhone 14 2024 Model
+388,Nike Running Shoes New Edition
+389,Ray-Ban Sunglasses 2024 Model
+390,Sony WH-1000XM5 Headphones Mini
+391,OnePlus 11 Mini
+392,Adidas Sports Shoes Mini
+393,Maggi Noodles Pack Plus
+394,Apple iPhone 14 Pro New Edition
+395,OnePlus Nord New Edition
+396,HP Pavilion Laptop Pro
+397,Aashirvaad Atta 5kg Pro
+398,Maggi Noodles Pack Plus
+399,Samsung Galaxy S21 New Edition
+400,Apple iPhone 13 New Edition
+401,Apple iPhone 14 Pro Pro
+402,Tata Salt 1kg New Edition
+403,OnePlus Nord Mini
+404,Dell XPS 13 Laptop Pro
+405,OnePlus 11 New Edition
+406,Samsung Galaxy S21 Plus
+407,Tata Salt 1kg New Edition
+408,Fortune Sunflower Oil 1L Plus
+409,Ray-Ban Sunglasses Mini
+410,Levis Blue Jeans Pro
+411,Apple iPhone 14 Pro Mini
+412,Apple iPhone 14 2024 Model
+413,Nike Running Shoes Pro
+414,OnePlus Nord Pro
+415,Samsung Galaxy S22 Plus
+416,Levis Blue Jeans Pro
+417,Ray-Ban Sunglasses Plus
+418,OnePlus 11 Plus
+419,OnePlus 11 Mini
+420,Apple iPhone 13 Mini
+421,Dell XPS 13 Laptop Pro
+422,Dell XPS 13 Laptop New Edition
+423,Apple iPhone 13 New Edition
+424,Amul Butter 500g 2024 Model
+425,OnePlus Nord New Edition
+426,Samsung Galaxy S22 Plus
+427,HP Pavilion Laptop Plus
+428,HP Pavilion Laptop Mini
+429,U.S. Polo T-Shirt 2024 Model
+430,U.S. Polo T-Shirt Pro
+431,Tata Salt 1kg 2024 Model
+432,OnePlus Nord Mini
+433,Amul Butter 500g Plus
+434,Aashirvaad Atta 5kg 2024 Model
+435,Nike Running Shoes Plus
+436,Dell XPS 13 Laptop Pro
+437,Ray-Ban Sunglasses Plus
+438,Apple iPhone 14 Pro
+439,HP Pavilion Laptop New Edition
+440,Levis Blue Jeans 2024 Model
+441,Sony WH-1000XM5 Headphones 2024 Model
+442,Fortune Sunflower Oil 1L Pro
+443,Maggi Noodles Pack 2024 Model
+444,Maggi Noodles Pack New Edition
+445,Apple iPhone 14 Pro 2024 Model
+446,U.S. Polo T-Shirt Plus
+447,Levis Blue Jeans 2024 Model
+448,Levis Blue Jeans Mini
+449,Apple iPhone 14 Pro
+450,Sony WH-1000XM5 Headphones Pro
+451,Apple iPhone 14 Pro
+452,Apple iPhone 14 Pro Mini
+453,Apple iPhone 14 Mini
+454,Amul Butter 500g Mini
+455,HP Pavilion Laptop 2024 Model
+456,Amul Butter 500g 2024 Model
+457,Adidas Sports Shoes Mini
+458,Maggi Noodles Pack New Edition
+459,Apple iPhone 13 Mini
+460,HP Pavilion Laptop Plus
+461,Fortune Sunflower Oil 1L 2024 Model
+462,U.S. Polo T-Shirt 2024 Model
+463,Apple iPhone 14 Pro New Edition
+464,Apple iPhone 14 Pro Mini
+465,Dell XPS 13 Laptop Mini
+466,Maggi Noodles Pack 2024 Model
+467,Samsung Galaxy S22 Plus
+468,Apple iPhone 14 Mini
+469,Samsung Galaxy S21 Plus
+470,Fortune Sunflower Oil 1L 2024 Model
+471,Fortune Sunflower Oil 1L Mini
+472,Fortune Sunflower Oil 1L New Edition
+473,Samsung Galaxy S22 New Edition
+474,Apple iPhone 13 New Edition
+475,Samsung Galaxy S22 2024 Model
+476,Apple iPhone 13 Mini
+477,Amul Butter 500g New Edition
+478,Amul Butter 500g 2024 Model
+479,Levis Blue Jeans Mini
+480,U.S. Polo T-Shirt Pro
+481,Dell XPS 13 Laptop Mini
+482,OnePlus Nord New Edition
+483,OnePlus 11 2024 Model
+484,U.S. Polo T-Shirt 2024 Model
+485,Maggi Noodles Pack Pro
+486,OnePlus Nord 2024 Model
+487,Maggi Noodles Pack New Edition
+488,Apple iPhone 13 2024 Model
+489,OnePlus 11 Mini
+490,Aashirvaad Atta 5kg New Edition
+491,U.S. Polo T-Shirt Mini
+492,Sony WH-1000XM5 Headphones Pro
+493,U.S. Polo T-Shirt Mini
+494,OnePlus Nord New Edition
+495,Nike Running Shoes 2024 Model
+496,HP Pavilion Laptop 2024 Model
+497,Fortune Sunflower Oil 1L New Edition
+498,Dell XPS 13 Laptop New Edition
+499,Maggi Noodles Pack New Edition
+500,Tata Salt 1kg Plus
